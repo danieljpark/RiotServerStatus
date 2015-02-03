@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LoLStatus</string>
+
+    <string name="title_main">League of Servers</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="local_service_started">Local Service Started</string>
+
+    <string-array name="regions_array">
+        <item>Brazil</item>
+        <item>EU Nordic East</item>
+        <item>EU West</item>
+        <item>Latin America North</item>
+        <item>Latin America South</item>
+        <item>North America</item>
+        <item>Oceania</item>
+        <item>Russia</item>
+        <item>Turkey</item>
+    </string-array>
+
+</resources>

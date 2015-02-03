@@ -1,0 +1,40 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="fill_parent"
+    android:layout_width="fill_parent"
+    android:orientation="vertical"
+    >
+
+    <TextView
+        android:layout_width="267dp"
+        android:layout_height="30dp"
+        android:text="Please Select Default Region"
+        android:id="@+id/textView"
+        android:paddingTop="10dp"/>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="horizontal"
+        android:weightSum="1">
+        <Spinner
+            android:layout_width="266dp"
+            android:layout_height="60dp"
+            android:id="@+id/region_spinner"
+            android:layout_gravity="top"
+
+   />
+
+        <Button
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="40dp"
+            android:layout_height="60dp"
+            android:text="Select"
+            android:id="@+id/button"
+
+            android:layout_alignParentStart="true"
+            android:layout_weight="0.67" />
+
+    </LinearLayout>
+
+    <!--Any other categories include here-->
+</LinearLayout>
