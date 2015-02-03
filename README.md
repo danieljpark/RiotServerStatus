@@ -6,7 +6,7 @@ Description: This is an Android App to monitor the LoL server statuses of region
 
 
 Build:
-Recommend build with Android Studio
+-Recommend build with Android Studio
 
 Usage:
 1.Upon Launch choose the default region, (which will push notifications on the status of that server)
