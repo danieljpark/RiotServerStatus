@@ -6,7 +6,7 @@ package com.example.danielpark2.riotapp.Data;
 public class AppCredentials {
 
 
-    private static final String APP_KEY = "5c1a6435-5aa5-44f1-8d26-241ad2c05a57";
+    private static final String APP_KEY = {insert_app_key_here};
 
     public static String getAppKey() {
 
