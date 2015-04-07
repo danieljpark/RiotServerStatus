@@ -35,7 +35,7 @@ public class MainActivity extends ActionBarActivity {
     private Spinner spinner;
     private ListView listView;
     private String currentDefaultRegion;
-    private SQLiteDatabase sqlReadable;
+
     private SQLiteOpenHelper rDatabaseHelper;
 
 
